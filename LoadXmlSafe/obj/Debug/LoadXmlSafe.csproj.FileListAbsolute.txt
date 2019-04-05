@@ -1,0 +1,7 @@
+C:\Users\Elif Bayrakdar\source\repos\LoadXmlSafe\LoadXmlSafe\bin\Debug\LoadXmlSafe.exe.config
+C:\Users\Elif Bayrakdar\source\repos\LoadXmlSafe\LoadXmlSafe\bin\Debug\LoadXmlSafe.exe
+C:\Users\Elif Bayrakdar\source\repos\LoadXmlSafe\LoadXmlSafe\bin\Debug\LoadXmlSafe.pdb
+C:\Users\Elif Bayrakdar\source\repos\LoadXmlSafe\LoadXmlSafe\obj\Debug\LoadXmlSafe.csprojAssemblyReference.cache
+C:\Users\Elif Bayrakdar\source\repos\LoadXmlSafe\LoadXmlSafe\obj\Debug\LoadXmlSafe.csproj.CoreCompileInputs.cache
+C:\Users\Elif Bayrakdar\source\repos\LoadXmlSafe\LoadXmlSafe\obj\Debug\LoadXmlSafe.exe
+C:\Users\Elif Bayrakdar\source\repos\LoadXmlSafe\LoadXmlSafe\obj\Debug\LoadXmlSafe.pdb
